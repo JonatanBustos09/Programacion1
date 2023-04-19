@@ -1,0 +1,15 @@
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\bin\Debug\net6.0\EjercicioPractica2.exe
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\bin\Debug\net6.0\EjercicioPractica2.deps.json
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\bin\Debug\net6.0\EjercicioPractica2.runtimeconfig.json
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\bin\Debug\net6.0\EjercicioPractica2.dll
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\bin\Debug\net6.0\EjercicioPractica2.pdb
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.csproj.AssemblyReference.cache
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.AssemblyInfoInputs.cache
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.AssemblyInfo.cs
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.csproj.CoreCompileInputs.cache
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.dll
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\refint\EjercicioPractica2.dll
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.pdb
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\EjercicioPractica2.genruntimeconfig.cache
+C:\Users\jabustos\source\repos\EjercicioPractica2\EjercicioPractica2\obj\Debug\net6.0\ref\EjercicioPractica2.dll
