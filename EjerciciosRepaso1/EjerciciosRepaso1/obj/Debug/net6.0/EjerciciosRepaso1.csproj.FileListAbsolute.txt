@@ -1,5 +1,0 @@
-C:\Users\jabustos\source\repos\EjerciciosRepaso1\EjerciciosRepaso1\obj\Debug\net6.0\EjerciciosRepaso1.csproj.AssemblyReference.cache
-C:\Users\jabustos\source\repos\EjerciciosRepaso1\EjerciciosRepaso1\obj\Debug\net6.0\EjerciciosRepaso1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jabustos\source\repos\EjerciciosRepaso1\EjerciciosRepaso1\obj\Debug\net6.0\EjerciciosRepaso1.AssemblyInfoInputs.cache
-C:\Users\jabustos\source\repos\EjerciciosRepaso1\EjerciciosRepaso1\obj\Debug\net6.0\EjerciciosRepaso1.AssemblyInfo.cs
-C:\Users\jabustos\source\repos\EjerciciosRepaso1\EjerciciosRepaso1\obj\Debug\net6.0\EjerciciosRepaso1.csproj.CoreCompileInputs.cache
